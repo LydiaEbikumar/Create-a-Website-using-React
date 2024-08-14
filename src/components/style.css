@@ -1,0 +1,77 @@
+ul li{
+    display: inline-block;
+    padding: 15px;
+    margin-left: 9%;
+    font-size:large;
+    font-weight: bolder;
+}
+.menu{
+    background-color:  rgb(208, 208, 208); 
+    padding: 3px;
+    
+}
+table,tr,th,td{
+    border-collapse:collapse ;
+    border: 3px solid black;
+    padding: 20px;
+    
+}
+table{
+   margin-left: 30%;
+   margin-top: 0px;
+}
+th{
+    font-size:large;
+    font-weight: bolder;
+}
+td{
+    font-size: large;
+}
+form{
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 30%;
+    font-weight: bold;
+    border: 3px solid black;
+    margin-right: 29%;
+    padding: 15px;
+}
+label{
+    margin: 1%;
+    text-align: justify;
+}
+input{
+    height: 20px;
+}
+input{
+    margin: 1%;
+}
+button{
+   margin: 5px;
+   margin-top: 20px;
+   background-color:blue ;
+   color: white;
+   height: 30px; 
+   width: 100px;
+   margin-left: 3%;
+   border-radius: 5px;
+}
+h2{
+    text-align: center;
+    font-weight: 900;
+}
+h1{
+    text-align: center;
+    margin-top: 1%;
+}
+.bottom{
+    background-color:  rgb(208, 208, 208);
+}
+.copy{
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+.tab{
+   background-color: rgb(235, 231, 231);
+}
